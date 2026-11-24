@@ -1,0 +1,309 @@
+order_id,order_date,region,product,category,quantity,unit_price,discount,customer_age,revenue
+1081,2025-01-02,Alexandria,Pen Set,Stationery,4,12.27,0.2,32.0,39.26
+1275,2025-01-03,Giza,Headphones,Electronics,5,123.84,0.0,18.0,619.2
+1165,2025-01-03,Alexandria,Headphones,Electronics,3,131.58,0.0,22.0,394.74
+1003,2025-01-04,Alexandria,Chair,Furniture,5,142.27,0.0,28.0,711.35
+1110,2025-01-06,Aswan,Chair,Furniture,5,150.51,0.1,27.0,677.3
+1115,2025-01-07,Cairo,Desk,Furniture,5,230.23,0.0,27.0,1151.15
+1178,2025-01-07,Alexandria,Phone,Electronics,4,642.23,0.0,62.0,2568.92
+1240,2025-01-08,Giza,Chair,Furniture,5,158.83,0.05,26.0,754.44
+1069,2025-01-09,Cairo,Laptop,Electronics,5,921.92,0.0,40.0,4609.6
+1129,2025-01-10,Cairo,Chair,Furniture,4,153.26,0.0,48.0,613.04
+1154,2025-01-10,Cairo,Headphones,Electronics,5,119.56,0.1,22.0,538.02
+1085,2025-01-12,Cairo,Chair,Furniture,2,156.77,0.2,61.0,250.83
+1028,2025-01-14,Alexandria,Notebook,Stationery,5,4.66,0.0,19.0,23.3
+1262,2025-01-16,Cairo,Phone,Electronics,2,611.96,0.2,,979.14
+1052,2025-01-17,Cairo,Phone,Electronics,3,578.06,0.0,21.0,1734.18
+1097,2025-01-17,Giza,Phone,Electronics,2,587.4,0.1,59.0,1057.32
+1274,2025-01-18,Giza,Pen Set,Stationery,2,12.08,0.1,65.0,21.74
+1284,2025-01-19,Cairo,Desk,Furniture,1,270.35,0.2,57.0,216.28
+1246,2025-01-20,Alexandria,Laptop,Electronics,1,888.84,0.0,23.0,888.84
+1242,2025-01-21,Alexandria,Chair,Furniture,3,157.53,0.05,62.0,448.96
+1218,2025-01-25,Giza,Laptop,Electronics,3,839.44,0.2,63.0,2014.66
+1087,2025-01-25,Giza,Laptop,Electronics,5,946.52,0.0,31.0,4732.6
+1139,2025-01-30,Giza,Headphones,Electronics,4,111.91,0.0,28.0,447.64
+1131,2025-01-31,Aswan,Desk,Furniture,3,245.46,0.1,62.0,662.74
+1059,2025-02-03,Alexandria,Notebook,Stationery,3,5.01,0.2,35.0,12.02
+1076,2025-02-04,Cairo,Desk,Furniture,4,225.91,0.05,32.0,858.46
+1281,2025-02-04,Alexandria,Phone,Electronics,1,607.42,0.1,52.0,546.68
+1288,2025-02-06,Cairo,Chair,Furniture,1,147.24,0.05,55.0,139.88
+1280,2025-02-07,Cairo,Laptop,Electronics,3,882.57,0.0,40.0,2647.71
+1216,2025-02-08,Cairo,Phone,Electronics,4,597.84,,39.0,2152.22
+1283,2025-02-08,Cairo,Chair,Furniture,2,150.27,0.05,56.0,285.51
+1160,2025-02-08,Alexandria,Notebook,Stationery,2,4.79,0.0,39.0,9.58
+1022,2025-02-09,Alexandria,Headphones,Electronics,3,121.66,,50.0,346.73
+1010,2025-02-09,Cairo,Laptop,Electronics,5,892.94,0.1,59.0,4018.23
+1180,2025-02-09,Alexandria,Desk,Furniture,3,261.76,0.0,64.0,785.28
+1201,2025-02-11,Giza,Headphones,Electronics,5,120.74,0.0,42.0,603.7
+1065,2025-02-12,Alexandria,Headphones,Electronics,2,111.05,0.2,27.0,177.68
+1238,2025-02-12,Cairo,Desk,Furniture,4,227.51,0.0,52.0,910.04
+1013,2025-02-13,Cairo,Notebook,Stationery,3,4.55,0.0,63.0,13.65
+1197,2025-02-13,Alexandria,Headphones,Electronics,4,125.05,0.05,49.0,475.19
+1086,2025-02-14,Aswan,Chair,Furniture,1,152.01,0.0,23.0,152.01
+1118,2025-02-14,Giza,Laptop,Electronics,3,953.66,0.05,59.0,2717.93
+1136,2025-02-15,Cairo,Headphones,Electronics,5,117.05,0.1,44.0,526.72
+1134,2025-02-17,Giza ,Desk,Furniture,5,248.38,0.0,44.0,1241.9
+1114,2025-02-18,Giza,Desk,Furniture,5,253.5,0.0,64.0,1267.5
+1143,2025-02-18,Giza,Phone,Electronics,1,569.23,0.1,54.0,512.31
+1006,2025-02-21,Alexandria,Pen Set,Stationery,5,11.35,,31.0,53.91
+1162,2025-02-21,Cairo,Chair,Furniture,1,161.3,0.1,62.0,145.17
+1029,2025-02-21,Alexandria ,Desk,Furniture,1,263.65,0.05,45.0,250.47
+1228,2025-02-22,Aswan,Chair,Furniture,5,147.01,0.0,33.0,735.05
+1108,2025-02-22,Giza,Chair,Furniture,2,161.35,0.0,32.0,322.7
+1222,2025-02-23,Cairo ,Desk,Furniture,5,226.5,0.0,54.0,1132.5
+1157,2025-02-24,Aswan,Laptop,Electronics,2,899.19,0.05,45.0,1708.46
+1090,2025-02-25,Giza,Notebook,Stationery,4,5.01,0.05,58.0,19.04
+1057,2025-02-25,Giza,Desk,Furniture,2,259.65,0.0,60.0,519.3
+1236,2025-02-26,Cairo,Notebook,Stationery,1,5.42,0.2,28.0,4.34
+1233,2025-02-26,Cairo,Laptop,Electronics,1,943.49,0.0,25.0,943.49
+1167,2025-03-02,Alexandria,Headphones,Electronics,2,109.72,0.0,33.0,219.44
+1050,2025-03-02,Cairo,Notebook,Stationery,5,5.21,0.0,64.0,26.05
+1232,2025-03-02,Giza,Notebook,Stationery,1,5.32,0.0,50.0,5.32
+1111,2025-03-05,Alexandria,Phone,Electronics,3,629.01,0.0,42.0,1887.03
+1244,2025-03-05,Aswan,Chair,Furniture,3,141.36,0.0,27.0,424.08
+1092,2025-03-07,Cairo,Notebook,Stationery,5,5.3,0.1,25.0,23.85
+1049,2025-03-07,Alexandria,Chair,Furniture,2,156.76,0.1,37.0,282.17
+1169,2025-03-08,Cairo,Headphones,Electronics,5,115.31,0.05,59.0,547.72
+1264,2025-03-08,Alexandria,Pen Set,Stationery,1,13.08,0.0,21.0,13.08
+1223,2025-03-12,Cairo,Chair,Furniture,3,138.57,0.0,23.0,415.71
+1098,2025-03-13,Cairo,Chair,Furniture,4,155.48,0.1,45.0,559.73
+1243,2025-03-13,Giza,Laptop,Electronics,5,952.85,0.05,54.0,4526.04
+1126,2025-03-14,Giza,Desk,Furniture,1,269.38,0.1,58.0,242.44
+1039,2025-03-15,Cairo,Phone,Electronics,2,635.91,0.0,41.0,1271.82
+1063,2025-03-23,Cairo,Headphones,Electronics,3,131.83,0.05,35.0,375.72
+1267,2025-03-25,Giza,Desk,Furniture,4,258.9,0.05,29.0,983.82
+1112,2025-03-25,Alexandria,Notebook,Stationery,2,5.23,0.05,31.0,9.94
+1186,2025-03-26,Alexandria,Desk,Furniture,2,235.34,0.0,25.0,470.68
+1026,2025-03-26,Alexandria,Chair,Furniture,5,160.6,0.0,47.0,803.0
+1266,2025-03-28,Alexandria,Chair,Furniture,1,140.32,0.05,46.0,133.3
+1210,2025-03-28,Cairo,Notebook,Stationery,2,5.03,0.2,34.0,8.05
+1027,2025-03-28,Giza,Headphones,Electronics,1,122.86,0.05,24.0,116.72
+1293,2025-03-29,Cairo,Pen Set,Stationery,1,12.37,,27.0,12.37
+1084,2025-03-29,Alexandria,Notebook,Stationery,5,5.18,0.1,58.0,23.31
+1015,2025-03-31,Cairo,Notebook,Stationery,1,5.42,0.0,42.0,5.42
+1208,2025-04-01,Giza ,Pen Set,Stationery,5,12.04,0.1,63.0,54.18
+1183,2025-04-02,Alexandria,Desk,Furniture,2,245.24,0.0,45.0,490.48
+1268,2025-04-02,Cairo,Headphones,Electronics,2,128.3,,28.0,256.6
+1046,2025-04-04,Giza,Pen Set,Stationery,5,11.63,0.0,37.0,58.15
+1080,2025-04-06,Giza,Chair,Furniture,5,142.61,0.2,20.0,570.44
+1209,2025-04-09,Alexandria,Phone,Electronics,1,598.87,0.05,24.0,568.93
+1205,2025-04-11,Alexandria,Desk,Furniture,1,272.0,0.0,49.0,272.0
+1113,2025-04-12,Cairo,Desk,Furniture,4,264.15,0.1,27.0,950.94
+1014,2025-04-13,Cairo,Notebook,Stationery,5,4.64,0.05,42.0,22.04
+1099,2025-04-13,Alexandria,Chair,Furniture,3,139.48,0.0,51.0,418.44
+1234,2025-04-14,Alexandria,Notebook,Stationery,3,4.97,0.05,38.0,14.16
+1273,2025-04-14,Alexandria,Phone,Electronics,3,659.02,0.0,46.0,1977.06
+1150,2025-04-15,Alexandria,Laptop,Electronics,3,903.96,0.1,35.0,2440.69
+1181,2025-04-16,Alexandria,Pen Set,Stationery,5,11.51,0.0,19.0,57.55
+1195,2025-04-16,Giza,Pen Set,Stationery,2,11.88,0.0,30.0,23.76
+1042,2025-04-17,Aswan,Notebook,Stationery,4,4.91,0.05,22.0,18.66
+1119,2025-04-19,Cairo,Phone,Electronics,3,551.98,0.1,24.0,1490.35
+1142,2025-04-20,Cairo,Phone,Electronics,1,654.59,0.0,51.0,654.59
+1053,2025-04-20,Alexandria,Headphones,Electronics,1,129.36,0.1,45.0,116.42
+1007,2025-04-21,Cairo,Laptop,Electronics,3,869.53,0.2,51.0,2086.87
+1100,2025-04-24,Alexandria,Laptop,Electronics,1,983.08,0.1,37.0,884.77
+1033,2025-04-24,Alexandria,Laptop,Electronics,5,891.8,0.2,62.0,3567.2
+1226,2025-04-24,Cairo,Headphones,Electronics,5,122.6,0.0,26.0,613.0
+1147,2025-04-25,Aswan ,Laptop,Electronics,5,860.06,0.0,59.0,4300.3
+1038,2025-04-26,Giza,Notebook,Stationery,1,4.82,0.1,27.0,4.34
+1068,2025-04-26,Alexandria,Headphones,Electronics,2,120.87,0.1,,217.57
+1009,2025-04-26,Cairo,Phone,Electronics,2,545.83,0.05,53.0,1037.08
+1225,2025-04-27,Cairo,Notebook,Stationery,2,4.82,0.0,,9.64
+1254,2025-04-27,Aswan,Headphones,Electronics,2,111.66,0.0,38.0,223.32
+1103,2025-04-27,Giza,Notebook,Stationery,4,5.36,0.0,65.0,21.44
+1295,2025-04-28,Cairo,Desk,Furniture,3,225.99,0.2,54.0,542.38
+1021,2025-04-28,Aswan,Desk,Furniture,4,237.08,0.1,48.0,853.49
+1187,2025-05-02,Alexandria,Phone,Electronics,3,652.98,0.0,62.0,1958.94
+1071,2025-05-03,Giza,Notebook,Stationery,2,4.55,0.05,49.0,8.64
+1221,2025-05-11,Giza ,Laptop,Electronics,5,855.57,0.2,33.0,3422.28
+1001,2025-05-13,Giza,Laptop,Electronics,5,856.86,0.05,60.0,4070.08
+1093,2025-05-15,Alexandria,Notebook,Stationery,3,5.02,0.1,52.0,13.55
+1032,2025-05-16,Cairo,Phone,Electronics,4,650.26,0.2,43.0,2080.83
+1198,2025-05-17,Alexandria,Laptop,Electronics,4,963.24,0.0,48.0,3852.96
+1074,2025-05-17,Cairo,Laptop,Electronics,4,929.45,0.0,51.0,3717.8
+1276,2025-05-17,Alexandria,Desk,Furniture,2,240.12,0.1,40.0,432.22
+1079,2025-05-19,Cairo,Desk,Furniture,1,268.69,0.05,36.0,255.26
+1252,2025-05-24,Cairo,Desk,Furniture,1,247.91,0.05,,235.51
+1140,2025-05-26,Alexandria,Desk,Furniture,3,259.23,0.05,64.0,738.81
+1285,2025-05-28,Aswan,Desk,Furniture,3,245.97,0.2,52.0,590.33
+1073,2025-05-30,Cairo,Desk,Furniture,5,239.74,0.1,27.0,1078.83
+1196,2025-05-31,Alexandria,Laptop,Electronics,3,854.15,0.0,43.0,2562.45
+1272,2025-06-01,Giza,Laptop,Electronics,4,944.93,0.0,20.0,3779.72
+1164,2025-06-02,Cairo,Headphones,Electronics,2,131.63,0.0,47.0,263.26
+1125,2025-06-02,Alexandria,Notebook,Stationery,5,5.22,0.05,47.0,24.8
+1200,2025-06-05,Alexandria,Pen Set,Stationery,2,11.61,0.2,27.0,18.58
+1247,2025-06-06,Cairo,Notebook,Stationery,5,5.14,0.0,46.0,25.7
+1173,2025-06-07,Cairo,Notebook,Stationery,3,5.12,0.1,57.0,13.82
+1107,2025-06-08,Cairo,Notebook,Stationery,2,5.23,0.0,31.0,10.46
+1135,2025-06-08,Cairo,Notebook,Stationery,3,4.7,0.0,36.0,14.1
+1054,2025-06-08,Alexandria,Desk,Furniture,4,254.69,0.1,49.0,916.88
+1206,2025-06-15,Giza,Phone,Electronics,1,646.56,0.1,59.0,581.9
+1237,2025-06-16,Alexandria,Chair,Furniture,3,145.24,0.0,54.0,435.72
+1035,2025-06-17,Cairo,Pen Set,Stationery,4,13.16,0.2,39.0,42.11
+1185,2025-06-18,Cairo ,Desk,Furniture,2,263.62,0.0,35.0,527.24
+1174,2025-06-20,Cairo,Notebook,Stationery,3,5.04,0.05,28.0,14.36
+1067,2025-06-21,Giza,Pen Set,Stationery,1,12.91,0.0,35.0,12.91
+1219,2025-06-23,Cairo,Desk,Furniture,5,252.72,0.0,58.0,1263.6
+1144,2025-06-28,Cairo,Headphones,Electronics,3,110.37,0.2,41.0,264.89
+1263,2025-06-29,Giza,Headphones,Electronics,1,119.35,0.05,,113.38
+1106,2025-07-02,Giza,Notebook,Stationery,4,4.97,0.0,64.0,19.88
+1105,2025-07-02,Aswan,Notebook,Stationery,4,4.71,0.05,26.0,17.9
+1153,2025-07-02,Giza,Pen Set,Stationery,3,10.91,0.1,23.0,29.46
+1256,2025-07-04,Cairo,Phone,Electronics,1,587.15,0.2,,469.72
+1120,2025-07-04,Aswan,Laptop,Electronics,2,846.79,0.0,51.0,1693.58
+1145,2025-07-05,Cairo,Pen Set,Stationery,1,12.61,0.1,39.0,11.35
+1044,2025-07-07,Alexandria,Headphones,Electronics,3,109.87,0.0,63.0,329.61
+1249,2025-07-08,Giza,Notebook,Stationery,4,5.49,0.1,43.0,19.76
+1066,2025-07-09,Alexandria,Headphones,Electronics,1,129.54,0.0,43.0,129.54
+1149,2025-07-10,Cairo,Notebook,Stationery,4,4.69,0.0,31.0,18.76
+1278,2025-07-11,Alexandria,Notebook,Stationery,2,4.87,0.05,61.0,9.25
+1188,2025-07-13,Cairo,Headphones,Electronics,2,110.9,0.0,21.0,221.8
+1207,2025-07-13,Cairo,Notebook,Stationery,2,5.28,0.1,47.0,9.5
+1051,2025-07-14,Alexandria,Notebook,Stationery,2,5.24,0.0,29.0,10.48
+1261,2025-07-15,Cairo,Notebook,Stationery,4,5.16,0.0,62.0,20.64
+1239,2025-07-17,Cairo,Headphones,Electronics,2,116.22,0.0,61.0,232.44
+1005,2025-07-18,Giza,Desk,Furniture,4,259.16,0.0,21.0,1036.64
+1031,2025-07-19,Giza,Desk,Furniture,5,237.71,0.0,64.0,1188.55
+1030,2025-07-22,Cairo,Desk,Furniture,2,267.77,,40.0,535.54
+1008,2025-07-22,Alexandria,Chair,Furniture,4,162.91,0.0,32.0,651.64
+1156,2025-07-22,Cairo,Chair,Furniture,3,154.58,0.0,21.0,463.74
+1137,2025-07-27,Cairo,Chair,Furniture,4,146.82,0.0,64.0,587.28
+1270,2025-07-28,Alexandria,Chair,Furniture,1,148.49,0.1,48.0,133.64
+1235,2025-07-30,Cairo,Desk,Furniture,2,232.64,0.2,56.0,372.22
+1297,2025-07-31,Giza,Notebook,Stationery,3,4.7,0.0,32.0,14.1
+1124,2025-08-01,Cairo,Desk,Furniture,5,243.86,0.1,64.0,1097.37
+1248,2025-08-04,Cairo,Headphones,Electronics,5,108.06,0.0,41.0,540.3
+1220,2025-08-05,Giza,Pen Set,Stationery,3,11.3,0.0,,33.9
+1168,2025-08-06,Aswan,Phone,Electronics,3,556.54,0.05,25.0,1586.14
+1155,2025-08-06,Cairo,Desk,Furniture,2,272.97,0.0,52.0,545.94
+1094,2025-08-07,Alexandria,Headphones,Electronics,1,117.79,0.1,43.0,106.01
+1231,2025-08-07,Alexandria,Desk,Furniture,3,274.43,0.0,26.0,823.29
+1194,2025-08-09,Cairo,Headphones,Electronics,4,117.93,0.0,61.0,471.72
+1190,2025-08-10,Alexandria,Headphones,Electronics,5,110.41,0.0,27.0,552.05
+1023,2025-08-13,Cairo,Phone,Electronics,5,610.82,0.0,23.0,3054.1
+1043,2025-08-15,Giza,Chair,Furniture,5,144.53,0.0,42.0,722.65
+1299,2025-08-18,Aswan,Phone,Electronics,3,643.28,0.0,38.0,1929.84
+1175,2025-08-20,Cairo,Chair,Furniture,5,139.96,0.0,,699.8
+1041,2025-08-20,Cairo,Phone,Electronics,3,565.96,0.0,26.0,1697.88
+1158,2025-08-20,Alexandria,Desk,Furniture,1,230.53,0.0,55.0,230.53
+1300,2025-08-23,Alexandria,Laptop,Electronics,5,854.4,0.0,49.0,4272.0
+1269,2025-08-23,Cairo,Chair,Furniture,4,136.21,0.1,52.0,490.36
+1202,2025-08-26,Giza,Pen Set,Stationery,2,11.4,0.0,56.0,22.8
+1016,2025-08-29,Cairo,Notebook,Stationery,1,4.51,0.2,40.0,3.61
+1072,2025-08-30,Cairo,Phone,Electronics,1,611.35,0.0,19.0,611.35
+1146,2025-08-30,Giza,Notebook,Stationery,5,5.38,0.0,,26.9
+1179,2025-08-31,Alexandria,Pen Set,Stationery,3,12.2,0.2,59.0,29.28
+1011,2025-09-01,Alexandria,Desk,Furniture,4,260.58,0.2,21.0,833.86
+1012,2025-09-03,Alexandria,Pen Set,Stationery,4,11.16,0.05,19.0,42.41
+1116,2025-09-05,Cairo,Desk,Furniture,2,270.2,0.1,22.0,486.36
+1250,2025-09-06,Alexandria,Laptop,Electronics,1,860.56,0.0,42.0,860.56
+1287,2025-09-09,Cairo,Phone,Electronics,1,581.08,0.0,53.0,581.08
+1122,2025-09-11,Cairo,Chair,Furniture,2,135.69,0.1,57.0,244.24
+1241,2025-09-16,Aswan,Laptop,Electronics,4,922.09,0.0,52.0,3688.36
+1130,2025-09-19,Giza,Chair,Furniture,2,152.43,0.0,24.0,304.86
+1095,2025-09-20,Cairo,Pen Set,Stationery,5,11.03,0.0,21.0,55.15
+1161,2025-09-22,Alexandria,Pen Set,Stationery,1,12.64,0.1,27.0,11.38
+1018,2025-09-23,Alexandria,Laptop,Electronics,4,815.63,0.05,,3099.39
+1017,2025-09-24,Cairo ,Desk,Furniture,3,234.42,0.0,38.0,703.26
+1077,2025-09-26,Aswan,Headphones,Electronics,4,122.3,0.05,43.0,464.74
+1257,2025-09-26,Cairo,Chair,Furniture,5,162.66,0.05,22.0,772.63
+1132,2025-09-27,Giza,Desk,Furniture,4,255.09,0.0,56.0,1020.36
+1171,2025-09-27,Alexandria,Laptop,Electronics,5,827.46,0.0,31.0,4137.3
+1091,2025-09-30,Alexandria,Desk,Furniture,2,225.62,0.0,62.0,451.24
+1212,2025-09-30,Giza,Notebook,Stationery,3,4.93,0.0,22.0,14.79
+1078,2025-09-30,Alexandria,Phone,Electronics,4,567.75,0.05,61.0,2157.45
+1163,2025-10-01,Aswan,Headphones,Electronics,2,129.64,,58.0,246.32
+1060,2025-10-01,Alexandria,Chair,Furniture,5,164.75,0.0,38.0,823.75
+1193,2025-10-02,Alexandria,Chair,Furniture,5,140.38,0.0,35.0,701.9
+1189,2025-10-07,Alexandria,Phone,Electronics,5,647.53,0.0,25.0,3237.65
+1123,2025-10-07,Cairo,Chair,Furniture,3,164.38,0.0,24.0,493.14
+1020,2025-10-08,Aswan,Desk,Furniture,3,256.01,0.0,25.0,768.03
+1070,2025-10-09,Giza,Desk,Furniture,1,238.66,0.1,64.0,214.79
+1102,2025-10-11,Aswan ,Phone,Electronics,3,563.95,0.1,,1522.67
+1298,2025-10-12,Alexandria,Desk,Furniture,4,263.91,0.0,34.0,1055.64
+1176,2025-10-14,Cairo,Desk,Furniture,5,237.66,0.1,,1069.47
+1259,2025-10-17,Alexandria,Phone,Electronics,2,627.14,0.0,42.0,1254.28
+1184,2025-10-18,Cairo,Chair,Furniture,5,157.8,0.05,20.0,749.55
+1291,2025-10-20,Aswan,Notebook,Stationery,2,4.59,0.0,39.0,9.18
+1296,2025-10-20,Cairo,Desk,Furniture,3,241.33,0.05,48.0,687.79
+1128,2025-10-21,Giza,Notebook,Stationery,1,4.82,0.0,63.0,4.82
+1251,2025-10-21,Alexandria,Phone,Electronics,2,547.45,0.0,19.0,1094.9
+1172,2025-10-21,Alexandria,Laptop,Electronics,2,962.24,0.0,64.0,1924.48
+1036,2025-10-23,Alexandria,Laptop,Electronics,2,875.08,0.1,24.0,1575.14
+1214,2025-10-26,Cairo,Desk,Furniture,4,231.28,0.2,28.0,740.1
+1002,2025-10-29,Cairo ,Notebook,Stationery,3,4.82,0.0,56.0,14.46
+1133,2025-10-29,Alexandria,Laptop,Electronics,3,978.37,0.0,32.0,2935.11
+1224,2025-10-29,Alexandria,Phone,Electronics,4,650.02,0.05,43.0,2470.08
+1182,2025-10-30,Cairo,Phone,Electronics,2,584.55,0.05,29.0,1110.64
+1034,2025-10-30,Giza,Desk,Furniture,4,255.17,0.1,28.0,918.61
+1253,2025-10-30,Cairo,Phone,Electronics,1,555.48,0.1,62.0,499.93
+1245,2025-10-31,Cairo ,Chair,Furniture,1,162.71,0.0,57.0,162.71
+1088,2025-10-31,Aswan,Headphones,Electronics,2,131.6,,,263.2
+1282,2025-11-01,Alexandria,Desk,Furniture,1,260.99,0.0,20.0,260.99
+1289,2025-11-02,Cairo,Desk,Furniture,1,247.0,0.1,61.0,222.3
+1159,2025-11-03,Giza,Desk,Furniture,1,237.62,0.0,52.0,237.62
+1213,2025-11-03,Cairo ,Notebook,Stationery,2,4.63,0.0,40.0,9.26
+1290,2025-11-04,Cairo,Desk,Furniture,3,231.29,0.0,38.0,693.87
+1061,2025-11-05,Aswan,Pen Set,Stationery,2,10.81,0.0,24.0,21.62
+1177,2025-11-06,Alexandria,Notebook,Stationery,5,4.66,0.0,49.0,23.3
+1260,2025-11-07,Alexandria,Chair,Furniture,3,148.83,0.2,40.0,357.19
+1127,2025-11-12,Cairo,Laptop,Electronics,4,881.03,0.0,35.0,3524.12
+1204,2025-11-13,Alexandria,Chair,Furniture,2,139.84,0.05,47.0,265.7
+1192,2025-11-13,Alexandria,Chair,Furniture,3,160.39,0.0,45.0,481.17
+1096,2025-11-16,Alexandria,Headphones,Electronics,3,129.35,0.0,61.0,388.05
+1258,2025-11-16,Alexandria,Laptop,Electronics,3,867.45,0.05,41.0,2472.23
+1217,2025-11-18,Cairo,Laptop,Electronics,4,981.58,0.0,47.0,3926.32
+1075,2025-11-20,Cairo,Chair,Furniture,4,160.09,0.0,44.0,640.36
+1265,2025-11-21,Alexandria,Pen Set,Stationery,5,11.62,0.0,53.0,58.1
+1058,2025-11-22,Giza,Phone,Electronics,3,560.75,0.0,48.0,1682.25
+1062,2025-11-22,Cairo,Notebook,Stationery,5,4.52,0.0,38.0,22.6
+1089,2025-11-22,Cairo,Notebook,Stationery,1,4.92,0.0,18.0,4.92
+1279,2025-11-23,Giza,Laptop,Electronics,2,942.93,0.0,31.0,1885.86
+1064,2025-11-23,Cairo,Pen Set,Stationery,5,12.2,,19.0,48.8
+1004,2025-11-24,Alexandria,Desk,Furniture,4,248.99,0.0,58.0,995.96
+1292,2025-11-26,Alexandria,Phone,Electronics,3,620.1,0.1,48.0,1674.27
+1045,2025-11-27,Giza,Laptop,Electronics,5,815.37,0.05,27.0,3873.01
+1229,2025-12-01,Giza,Desk,Furniture,2,251.59,0.1,26.0,452.86
+1024,2025-12-01,Alexandria,Pen Set,Stationery,4,12.84,0.2,36.0,41.09
+1230,2025-12-03,Cairo,Phone,Electronics,4,562.47,0.05,49.0,2137.39
+1277,2025-12-04,Aswan,Desk,Furniture,3,272.38,0.0,,817.14
+1286,2025-12-04,Alexandria,Pen Set,Stationery,5,12.35,0.1,49.0,55.58
+1227,2025-12-04,Aswan,Notebook,Stationery,4,4.97,0.0,47.0,19.88
+1152,2025-12-04,Giza,Phone,Electronics,2,571.13,0.05,36.0,1085.15
+1121,2025-12-05,Alexandria,Desk,Furniture,1,262.18,0.0,43.0,262.18
+1199,2025-12-05,Cairo,Headphones,Electronics,1,128.99,0.1,56.0,116.09
+1138,2025-12-05,Alexandria,Laptop,Electronics,2,833.6,0.2,61.0,1333.76
+1170,2025-12-07,Alexandria,Laptop,Electronics,4,909.52,0.0,27.0,3638.08
+1191,2025-12-07,Giza,Chair,Furniture,2,142.94,0.1,25.0,257.29
+1048,2025-12-08,Cairo,Pen Set,Stationery,3,11.2,0.1,56.0,30.24
+1109,2025-12-08,Cairo,Desk,Furniture,3,243.95,0.0,,731.85
+1082,2025-12-08,Aswan,Desk,Furniture,4,252.68,0.05,62.0,960.18
+1019,2025-12-09,Cairo,Notebook,Stationery,5,4.61,0.0,45.0,23.05
+1083,2025-12-12,Giza,Phone,Electronics,2,587.54,0.0,54.0,1175.08
+1271,2025-12-13,Cairo,Headphones,Electronics,5,129.42,0.0,47.0,647.1
+1040,2025-12-14,Aswan,Chair,Furniture,1,153.02,0.0,34.0,153.02
+1148,2025-12-15,Alexandria,Phone,Electronics,4,564.25,,36.0,2144.15
+1215,2025-12-17,Cairo,Notebook,Stationery,3,5.45,0.05,37.0,15.53
+1151,2025-12-17,Cairo,Notebook,Stationery,1,4.97,0.05,27.0,4.72
+1037,2025-12-18,Cairo,Pen Set,Stationery,1,12.75,0.1,45.0,11.48
+1203,2025-12-18,Aswan,Desk,Furniture,2,237.24,0.0,59.0,474.48
+1166,2025-12-19,Alexandria,Notebook,Stationery,1,5.45,0.05,19.0,5.18
+1117,2025-12-20,Cairo,Laptop,Electronics,4,965.8,0.1,50.0,3476.88
+1055,2025-12-20,Alexandria,Desk,Furniture,4,231.3,0.0,65.0,925.2
+1104,2025-12-21,Cairo,Laptop,Electronics,5,974.26,0.0,21.0,4871.3
+1025,2025-12-22,Giza,Notebook,Stationery,3,4.5,0.1,55.0,12.15
+1141,2025-12-22,Giza,Pen Set,Stationery,3,11.61,0.0,39.0,34.83
+1294,2025-12-24,Alexandria,Headphones,Electronics,2,123.91,0.05,59.0,235.43
+1255,2025-12-26,Cairo,Chair,Furniture,3,153.97,0.1,31.0,415.72
+1047,2025-12-28,Aswan,Desk,Furniture,5,225.95,0.0,28.0,1129.75
+1056,2025-12-29,Alexandria,Laptop,Electronics,1,835.87,0.1,59.0,752.28
+1211,2025-12-30,Cairo,Phone,Electronics,1,604.39,0.0,23.0,604.39
+1101,2025-12-31,Cairo,Notebook,Stationery,4,4.68,0.0,56.0,18.72
+1202,2025-08-26,Giza,Pen Set,Stationery,2,11.4,0.0,56.0,22.8
+1079,2025-05-19,Cairo,Desk,Furniture,1,268.69,0.05,36.0,255.26
+1041,2025-08-20,Cairo,Phone,Electronics,3,565.96,0.0,26.0,1697.88
+1163,2025-10-01,Aswan,Headphones,Electronics,2,129.64,,58.0,246.32
+1038,2025-04-26,Giza,Notebook,Stationery,1,4.82,0.1,27.0,4.34
+1073,2025-05-30,Cairo,Desk,Furniture,5,239.74,0.1,27.0,1078.83
+1155,2025-08-06,Cairo,Desk,Furniture,2,272.97,0.0,52.0,545.94
+1112,2025-03-25,Alexandria,Notebook,Stationery,2,5.23,0.05,31.0,9.94
